@@ -1,2 +1,2 @@
 # Student-management-system
-Student management system with files
+Student management system using files
